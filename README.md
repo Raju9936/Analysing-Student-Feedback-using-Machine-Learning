@@ -12,9 +12,9 @@ The project is about the analysing the senitment of the student feedback using t
 
 ## Directory Layout
 
-'''
+```
 - README.md ----> This file you are reading which has all the instructions and clear explanation of the project.
 - images ---> This file contains all the images used in the readme file.
 - StudentFeedbackML.ipynb ---> This file contains the actual code of the project and detailed description about each block.
 - feedback dataset.csv ---> This folder contains the dataset used for the project.
-'''
+```
