@@ -8,7 +8,7 @@ The project is about the analysing the senitment of the student feedback using t
 
 ## Table of Contents
 
-1. [Directory Layout](#directory layout)
+1. [Directory Layout](#directory-layout)
 
 ## Directory Layout
 
