@@ -77,17 +77,39 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 - The Data set is converted into the sequence so, that it can be fed easily to get trained by machine learning model.
 ![](ImagesGit/preprocess1.jpg)
 
+
+
+![](ImagesGit/Preparation.jpg)
+
 ## Model Building and Evaluation
 - The Gaussian naive bayes, Decision tree Classifier, Random forest models were trained and evaluation metrices were determined.
 - The Random Forest model has performed better with our data Set giving accuracy greather than 84 percent.
 - The Evaluation metrices measured were Accuracy, Precision, Recall, f1-Score.
 
+![](ImagesGit/GNB.jpg)
+
+
+![](ImagesGit/Decision.jpg)
+
+
+![](ImagesGit/Random.jpg)
+
 ## Sentiment Prediction
 - The sentiment of the given review is predicted as follows the Random forest model gave good accuracy so, using that trained model we predicted the review sentiment
+
+
+![](ImagesGit/Pred.jpg)
 
 ## Data Visualization
 - In this project we did some some work on visualizing the results 
 - The Accuracy Score, Precision, Recall, f1-scores are visualized for all the three algorithms we used in our project.
+
+![](ImagesGit/Accur.jpg)
+
+![](ImagesGit/Prec.jpg)
+
+
+![](ImagesGit/Recall.jpg)
 
 ## License 
 - This project has no license it is open source for now
