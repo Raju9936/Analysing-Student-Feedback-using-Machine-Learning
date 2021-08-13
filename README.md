@@ -11,8 +11,9 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 5. [Loading Libraries](#loading-libraries)
 6. [Data Preprocessing and Preparation](#Data-Preprocessing-and-preprocessing)
 7. [Model Building and Evaluation](#Model-Building-and-Evaluation)
-8. [License](#License)
-9. [Project Status](#project-status)
+8. [Sentiment prediction](#sentiment-prediction)
+9. [License](#License)
+10. [Project Status](#project-status)
 
 ## Project Description
 
@@ -76,8 +77,15 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 
 ## Model Building and Evaluation
 - The Gaussian naive bayes, Decision tree Classifier, Random forest models were trained and evaluation metrices were determined.
-- The Rabdom Forest model has performed better with our data Set giving accuracy greather than 84 percent.
+- The Random Forest model has performed better with our data Set giving accuracy greather than 84 percent.
 - The Evaluation metrices measured were Accuracy, Precision, Recall, f1-Score.
+
+## Sentiment Prediction
+- The sentiment of the given review is predicted as follows the Random forest model gave good accuracy so, using that trained model we predicted the review sentiment
+
+## Data Visualization
+- In this project we did some some work on visualizing the results 
+- The Accuracy Score, Precision, Recall, f1-scores are visualized for all the three algorithms we used in our project
 
 ## License 
 - This project has no license it is open source for now
