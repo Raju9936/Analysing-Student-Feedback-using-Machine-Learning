@@ -86,7 +86,7 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 
 ## Data Visualization
 - In this project we did some some work on visualizing the results 
-- The Accuracy Score, Precision, Recall, f1-scores are visualized for all the three algorithms we used in our project
+- The Accuracy Score, Precision, Recall, f1-scores are visualized for all the three algorithms we used in our project.
 
 ## License 
 - This project has no license it is open source for now
@@ -95,4 +95,5 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 - The Analysis and evaluation of 3 machine algorithms were done on student feedback data set and obtained good accuracy score for the Random Forest model.
 - But for the predicting the sentiment on the real time reviews we need to convert the feedback input into the same sequence done in data prepartion steps. So, need to find better alernative to get predition easily
 - For better understanding the project refer to the ipynb file in the repository refer this [Code Document](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb)
+- For Any doubts regarding the project message me in twitter ![Twitter](https://img.shields.io/twitter/follow/lenin46685519?style=social)
 
