@@ -14,7 +14,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 
 The project is about the analysing the senitment of the student feedback using the supervised machine learning algorithms using python programming language. Information about user’s sentiment is used for a variety of purposes, such as determining their opinion, attitude towards a business or a product. Whereas with the students’ sentiments it can be used to address issues such as learning experience, teaching, and evaluation etc. Analysing sentiment from the Textual feedback manually is a tedious task and require a lot a of time. This project proposes the methods for analysing sentiment in the student feedback using supervised machine learning models such as Decision Trees, Gaussian Na¨ıve Bayes (GNB), Random Forest. This project analysis the sentiment feedback data set and finds the error metrices like Accuracy, Precision, Recall, f1-Score.
 - You can understand about the project clearly from the table of contents which gives details about libraries, installation steps, Data set etc.
-- If any one have any queries about the project message me in twitter: ![Twitter](https://img.shields.io/twitter/follow/lenin46685519?style=social)
+- If any one have any queries about the project message me in twitter: ![Twitter](https://img.shields.io/github/followers/Raju9936?style=social)
 
 ## Directory Layout
 
@@ -42,3 +42,22 @@ pip install tensorflow
 - The Data set consists of 5200 rows and it is balanced data set with almost equal number of postive and negative reviews
 
 ## Loading Libraries 
+
+```py
+import warnings
+import numpy as np #Importing the necessary numeric data packages and data analysis packages
+import pandas as pd
+import re #Regural expression module
+import nltk #Natural language toolkit
+from nltk.corpus import stopwords #corpus is large and structured set of text
+from string import punctuation #loading set of punctuations from string library
+from nltk.tokenize import word_tokenize
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score,precision_score,recall_score,f1_score# importing the error metrices from sklearn library
+from sklearn.naive_bayes import GaussianNB#importing the Gaussian Naive bayes algorithm 
+import seaborn as sns#importing seaborn library for graphics
+%matplotlib inline 
+from matplotlib import pyplot as ply
+from sklearn.tree import DecisionTreeClassifier#importing Decision tree classifier algorithm
