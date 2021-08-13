@@ -82,6 +82,6 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 
 ## Project Status
 - The Analysis and evaluation of 3 machine algorithms were done on student feedback data set and obtained good accuracy score for the Random Forest model.
-- But for the predicting the sentiment on the real time reviews we need to convert the feedback input into the same sequence done in data prepartion steps. So, need to find better alernative to get predition easily.
+- But for the predicting the sentiment on the real time reviews we need to convert the feedback input into the same sequence done in data prepartion steps. So, need to find better alernative to get predition easily
 - For better understanding the project refer to the ipynb file in the repository refer this [Code Document](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb)
 
