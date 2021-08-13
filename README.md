@@ -10,6 +10,9 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 4. [Data Set](#data-set)
 5. [Loading Libraries](#loading-libraries)
 6. [Data Preprocessing and Preparation](#Data-Preprocessing-and-preprocessing)
+7. [Model Building and Evaluation](#Model-Building-and-Evaluation)
+8. [License](#License)
+9. [Project Status](#project-status)
 
 ## Project Description
 
@@ -71,5 +74,14 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 - The Data set is converted into the sequence so, that it can be fed easily to get trained by machine learning model.
 
 ## Model Building and Evaluation
-- The 
+- The Gaussian naive bayes, Decision tree Classifier, Random forest models were trained and evaluation metrices were determined.
+- The Evaluation metrices measured were Accuracy, Precision, Recall, f1-Score.
+
+## License 
+- This project has no license it is open source for now
+
+## Project Status
+- The Analysis and evaluation of 3 machine algorithms were done on student feedback data set and obtained good accuracy score for the Random Forest model.
+- But for the predicting the sentiment on the real time reviews we need to convert the feedback input into the same sequence done in data prepartion steps. So, need to find better alernative to get predition easily.
+- For better understanding the project refer to the ipynb file in the repository refer this 
 
