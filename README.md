@@ -26,4 +26,9 @@ The project is about the analysing the senitment of the student feedback using t
 ## Set up
 
 This project is done using the Jupyter notebook which is preinstalled in anaconda software. The Anaconda can be found here: [Anaconda](https://www.anaconda.com/products/individual) According to the system requirements download 64-bit or 32-bit windows version and it can be downloaded to Mac and Linux systems.
+- The required packages are installing tensor flow
+```py
+pip install tensorflow
+
+```
 
