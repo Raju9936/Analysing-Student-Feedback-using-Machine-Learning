@@ -6,6 +6,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 
 1. [Project Description](#Project-description)
 2. [Directory Layout](#directory-layout)
+3. [set up](#set-up)
 
 ## Project Description
 
@@ -21,3 +22,7 @@ The project is about the analysing the senitment of the student feedback using t
 - StudentFeedbackML.ipynb ---> This file contains the actual code of the project and detailed description about each block.
 - feedback dataset.csv ---> This folder contains the dataset used for the project.
 ```
+
+## Set up
+
+This project is done using the Jupyter notebook which is preinstalled in anaconda software.
