@@ -123,6 +123,5 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 
 
 ## Author
-- Lenin Naga Kumar Polukonda 
-- ![GitHub](https://img.shields.io/github/followers/Raju9936?style=social)
+- Lenin Naga Kumar Polukonda  ![GitHub](https://img.shields.io/github/followers/Raju9936?style=social)
 
