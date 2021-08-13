@@ -12,7 +12,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 6. [Data Preprocessing and Preparation](#Data-Preprocessing-and-preprocessing)
 7. [Model Building and Evaluation](#Model-Building-and-Evaluation)
 8. [Sentiment prediction](#sentiment-prediction)
-9. [Data Visualization](#data visualization)
+9. [Data Visualization](#data-visualization)
 10. [License](#License)
 11. [Project Status](#project-status)
 
