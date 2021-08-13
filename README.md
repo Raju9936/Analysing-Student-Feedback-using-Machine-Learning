@@ -83,13 +83,13 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 
 ## Model Building and Evaluation
 - The Gaussian naive bayes, Decision tree Classifier, Random forest models were trained and evaluation metrices were determined.
-- The Random Forest model has performed better with our data Set giving accuracy greather than 84 percent.
+- The Random Forest model has performed better with our data Set giving accuracy greather than 80 percent.
+- Gaussian Naive Bayes-51
+- Decision Trees-78
+- Random Forest- 81
 - The Evaluation metrices measured were Accuracy, Precision, Recall, f1-Score.
+- Below Random Forest Model is Attached for all other models refer to code file click here [Code Document](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb)
 
-![](ImagesGit/GNB.jpg)
-
-
-![](ImagesGit/Decision.jpg)
 
 
 ![](ImagesGit/Random.jpg)
