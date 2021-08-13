@@ -6,7 +6,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 
 1. [Project Description](#Project-description)
 2. [Directory Layout](#directory-layout)
-3. [set up](#set-up)
+3. [set up and execution](#set-up-and-execution)
 4. [Data Set](#data-set)
 5. [Loading Libraries](#loading-libraries)
 6. [Data Preprocessing and Preparation](#Data-Preprocessing-and-preprocessing)
@@ -32,7 +32,7 @@ The project is about the analysing the senitment of the student feedback using t
 - feedback dataset.csv ---> This folder contains the dataset used for the project.
 ```
 
-## Set up
+## Set up and Execution
 
 This project is done using the Jupyter notebook which is preinstalled in anaconda software. The Anaconda can be found here: [Anaconda](https://www.anaconda.com/products/individual) According to the system requirements download 64-bit or 32-bit windows version and it can be downloaded to Mac and Linux systems.
 - The required packages are installing tensor flow
@@ -41,6 +41,9 @@ pip install tensorflow
 
 ```
 - After this the jupyter note book is ready with running machine learning python code that is suffucient for our project
+- Refer to the code document in our repository [Code File](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb) download it and upload to jupyter notebook and also make sure the data set is also placed in same folder 
+- Download data set from our repository click here [Data Set](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/feedback%20dataset.csv)
+- After this you are good to go to find the polarity of the sentiment in the feedback.
 - In the following steps we included the necessary libraries and packages required to run our code and clear documentation, description of each block of code is available in our code repository click here [Code](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb)
 
 ## Data Set
