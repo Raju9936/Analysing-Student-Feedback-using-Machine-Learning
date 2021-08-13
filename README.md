@@ -67,7 +67,9 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 ```
 
 ## Data Pre-processing and preparation
-- The Machine algorithms don't deal with the textual data so, the data is preprocessed to remove unwanted rows and stop words, punctuations etc.
-- The Data set is converted into the sequence so, that it can be fed easily to get trained by machine learning model
- ![](preprocess1.JPG)
+- The Machine algorithms don't deal with the textual data so, the data is preprocessed to remove unwanted rows and stop words, punctuations etc. The Data is converted into tokens.
+- The Data set is converted into the sequence so, that it can be fed easily to get trained by machine learning model.
+
+## Model Building and Evaluation
+- The 
 
