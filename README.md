@@ -15,6 +15,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 9. [Data Visualization](#data-visualization)
 10. [License](#License)
 11. [Project Status](#project-status)
+12. [Author](#Author)
 
 ## Project Description
 
@@ -119,4 +120,9 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 - But for the predicting the sentiment on the real time reviews we need to convert the feedback input into the same sequence done in data prepartion steps. So, need to find better alernative to get predition easily
 - For better understanding the project refer to the ipynb file in the repository refer this [Code Document](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb)
 - For Any doubts regarding the project message me in twitter ![Twitter](https://img.shields.io/twitter/follow/lenin46685519?style=social)
+
+
+## Author
+- Lenin Naga Kumar Polukonda 
+- ![GitHub](https://img.shields.io/github/followers/Raju9936?style=social)
 
