@@ -7,6 +7,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 1. [Project Description](#Project-description)
 2. [Directory Layout](#directory-layout)
 3. [set up](#set-up)
+4. [Data Set](#data-set)
 
 ## Project Description
 
@@ -32,3 +33,5 @@ pip install tensorflow
 
 ```
 - After this the jupyter note book is ready with for running machine learning python code.
+
+## Data Set
