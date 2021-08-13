@@ -9,7 +9,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 3. [set up](#set-up)
 4. [Data Set](#data-set)
 5. [Loading Libraries](#loading-libraries)
-6. [Preprocessing](#Preprocessing)
+6. [Data Preprocessing and Preparation](#Data-Preprocessing-and-preprocessing)
 
 ## Project Description
 
@@ -39,6 +39,7 @@ pip install tensorflow
 ## Data Set
 - The Data set is extracted from the kaggle open source 
 (Source: https://www.kaggle.com/chandusrujan/sentimental-analysis-on-student-feedback retrieved in july 2021.)
+- The Data set can be found in our repository : [Data Set](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/feedback%20dataset.csv)
 - The Data set consists of 2 coloums reviews and the sentiment either 1 or 0
 - The Data set consists of 5200 rows and it is balanced data set with almost equal number of postive and negative reviews
 
@@ -65,6 +66,6 @@ from sklearn.tree import DecisionTreeClassifier#importing Decision tree classifi
 from sklearn.ensemble import RandomForestClassifier #importing the Random forest algorithm 
 ```
 
-## Pre-processing 
+## Data Pre-processing and preparation
 
 
