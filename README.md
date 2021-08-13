@@ -114,6 +114,8 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 
 ![](ImagesGit/Recall.jpg)
 
+![](ImagesGit/f1-score.jpg)
+
 ## License 
 - This project has no license it is open source for now
 
