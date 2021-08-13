@@ -37,7 +37,8 @@ This project is done using the Jupyter notebook which is preinstalled in anacond
 pip install tensorflow
 
 ```
-- After this the jupyter note book is ready with for running machine learning python code.
+- After this the jupyter note book is ready with running machine learning python code that is suffucient for our project
+- In the following steps we included the necessary libraries and packages required to run our code and clear documentation, description of each block of code is available in our code repository click here [Code](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb)
 
 ## Data Set
 - The Data set is extracted from the kaggle open source 
