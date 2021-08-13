@@ -31,4 +31,4 @@ This project is done using the Jupyter notebook which is preinstalled in anacond
 pip install tensorflow
 
 ```
-
+- After this the jupyter note book is ready with for running machine learning python code.
