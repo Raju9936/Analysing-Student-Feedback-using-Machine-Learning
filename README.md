@@ -8,6 +8,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 2. [Directory Layout](#directory-layout)
 3. [set up](#set-up)
 4. [Data Set](#data-set)
+5. [Loading Libraries](#loading-libraries)
 
 ## Project Description
 
@@ -37,3 +38,7 @@ pip install tensorflow
 ## Data Set
 - The Data set is extracted from the kaggle open source 
 (Source: https://www.kaggle.com/chandusrujan/sentimental-analysis-on-student-feedback retrieved in july 2021.)
+- The Data set consists of 2 coloums reviews and the sentiment either 1 or 0
+- The Data set consists of 5200 rows and it is balanced data set with almost equal number of postive and negative reviews
+
+## Loading Libraries 
