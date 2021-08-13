@@ -35,3 +35,8 @@ pip install tensorflow
 - After this the jupyter note book is ready with for running machine learning python code.
 
 ## Data Set
+- The Data set is
+  // Code adapted from MSDN example:
+// http://msdn.microsoft.com/en-us/library/ms680578(VS.85).aspx 
+
+(Source: https://github.com/adobe/chromium/blob/master/base/debug/stack_trace_win.cc retrieved in July 2019.)
