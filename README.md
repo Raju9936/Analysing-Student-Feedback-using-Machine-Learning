@@ -1,4 +1,4 @@
-# Analysing-Student-Feedback-using-Machine-Learning-(v 1.0)
+# Analysing-Student-Feedback-using-Machine-Learning
 Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on student feedback data set
 
 
@@ -9,6 +9,7 @@ Machine Learning methods like GNB, DecisionTrees, RandomForest were analysed on 
 3. [set up](#set-up)
 4. [Data Set](#data-set)
 5. [Loading Libraries](#loading-libraries)
+6. [Preprocessing](#Preprocessing)
 
 ## Project Description
 
@@ -62,3 +63,8 @@ import seaborn as sns#importing seaborn library for graphics
 from matplotlib import pyplot as ply
 from sklearn.tree import DecisionTreeClassifier#importing Decision tree classifier algorithm
 from sklearn.ensemble import RandomForestClassifier #importing the Random forest algorithm 
+```
+
+## Pre-processing 
+
+
