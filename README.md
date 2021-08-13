@@ -25,4 +25,4 @@ The project is about the analysing the senitment of the student feedback using t
 
 ## Set up
 
-This project is done using the Jupyter notebook which is preinstalled in anaconda software.
+This project is done using the Jupyter notebook which is preinstalled in anaconda software. The Anaconda can be found here: ![Anaconda](https://www.anaconda.com/products/individual)
