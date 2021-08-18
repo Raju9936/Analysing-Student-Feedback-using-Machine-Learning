@@ -1,4 +1,4 @@
-# Analysing-Sentiment-in-Student-Feedback-using-Machine-Learning
+# Analysing-Sentiment-in-Student-Feedback-using-Supervised-Machine-Learning-methods
 
 
 ## Table of Contents
