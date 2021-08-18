@@ -26,14 +26,14 @@ The project is about the analysing the senitment of the student feedback using t
 
 ```
 - README.md ----> This file you are reading which has all the instructions and clear explanation of the project.
-- images ---> This file contains all the images used in the readme file.
+- images ---> This file contains all the files that are used in the readme file.
 - StudentFeedbackML.ipynb ---> This file contains the actual code of the project and detailed description about each block.
 - feedback dataset.csv ---> This folder contains the dataset used for the project.
 ```
 
 ## Set up and Execution
 
-This project is done using the Jupyter notebook which is preinstalled in anaconda software. The Anaconda can be found here: [Anaconda](https://www.anaconda.com/products/individual) According to the system requirements download 64-bit or 32-bit windows version and it can be downloaded to Mac and Linux systems.
+This project is done using the Jupyter notebook which is preinstalled in anaconda software. The Anaconda for individual edition can be downloaded from here: [Anaconda](https://www.anaconda.com/products/individual) According to the system requirements download 64-bit or 32-bit windows version and it is available to Windows, Mac and Linux systems.
 - The required packages are installing tensor flow
 ```py
 pip install tensorflow
@@ -76,8 +76,8 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 ```
 
 ## Data Pre-processing and preparation
-- The Machine algorithms don't deal with the textual data so, the data is preprocessed to remove unwanted rows and stop words, punctuations etc. The Data is converted into tokens.
-- The Data set is converted into the sequence so, that it can be fed easily to get trained by machine learning model.
+- The dataset is preprocessed to remove unwanted rows and stop words, punctuations etc. The Data is converted into tokens.
+- The Data set is converted into the Array of sequences so, that it can be fed easily to get trained by machine learning model.
 ![](ImagesGit/preprocess1.jpg)
 
 
@@ -104,8 +104,8 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 ![](ImagesGit/Pred.jpg)
 
 ## Data Visualization
-- In this project we did some some work on visualizing the results 
-- The Accuracy Score, Precision, Recall, f1-scores are visualized for all the three algorithms we used in our project.
+- In this project I did some some work on visualizing the results 
+- The Accuracy Score, Precision, Recall, f1-scores are visualized for all the three algorithms that I used in our project.
 
 ![](ImagesGit/Accur.jpg)
 
@@ -121,7 +121,8 @@ from sklearn.ensemble import RandomForestClassifier #importing the Random forest
 
 ## Project Status
 - The Analysis and evaluation of 3 machine algorithms were done on student feedback data set and obtained good accuracy score for the Random Forest model.
-- But for the predicting the sentiment on the real time reviews we need to convert the feedback input into the same sequence done in data prepartion steps. So, need to find better alernative to get predition easily
+- The accuracy that is obtained is 80 percent but by including more data points to the data set the model can perform better and can obtain 90 percent accuracy.
+- Also, on this data if Recurrent Neural Networks were trained we can anticipate better results.
 - For better understanding the project refer to the ipynb file in the repository refer this [Code Document](https://github.com/Raju9936/Analysing-Student-Feedback-using-Machine-Learning/blob/main/StudentFeedbackML.ipynb)
 - For Any doubts regarding the project message me in twitter ![Twitter](https://img.shields.io/twitter/follow/lenin46685519?style=social)
 
